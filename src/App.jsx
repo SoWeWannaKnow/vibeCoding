@@ -20,7 +20,7 @@ const posts = [
 
 const Home = () => (
   <div className="p-6 space-y-6">
-    <h1 className="text-3xl font-bold text-black-900">歡迎來到我的部落格</h1>
+    <h1 className="text-3xl font-bold text-red-900">歡迎來到我的部落格</h1>
     <p className="text-gray-600">這裡是我寫下技術筆記、學習心得與生活隨筆的地方。</p>
   </div>
 );
